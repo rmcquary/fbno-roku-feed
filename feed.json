@@ -26,30 +26,6 @@
                     }
                 ]
             }
-        },
-        {
-            "id": "154522047",
-            "title": "Live in Harmony",
-            "shortDescription": "Live in Harmony",
-            "thumbnail": "https://i.vimeocdn.com/video/555160198_800x450.png",
-            "releaseDate": "2016-02-07T19:12:37-05:00",
-            "genres": [
-                "faith"
-            ],
-            "tags": [
-                "faith"
-            ],
-            "content": {
-                "dateAdded": "2016-02-22T10:28:11-05:00",
-                "duration": 2014,
-                "videos": [
-                    {
-                        "url": "https://player.vimeo.com/external/154522047.hd.mp4?s=2f95b6eb57253e0260a3fd993ab718da3a42a7cb&profile_id=119",
-                        "quality": "FHD",
-                        "videoType": "MP4"
-                    }
-                ]
-            }
         }
     ]
 }

@@ -1,31 +1,43 @@
 {
     "providerName": "First Baptist New Orleans",
-    "lastUpdated": "2020-03-20T10:36:33-04:00",
+    "lastUpdated": "2020-03-20T21:00:00+00:00",
     "language": "en",
+    "categories": [
+        {
+            "name": "Test Category",
+            "query": "live",
+            "order": "most_recent"
+        }
+    ],
     "movies": [
         {
-            "id": "154523875",
-            "title": "Overcome Evil with Good",
-            "shortDescription": "Overcome Evil with Good",
-            "thumbnail": "https://i.vimeocdn.com/video/555160784_800x450.png",
-            "releaseDate": "2016-02-07T19:50:05-05:00",
-            "genres": [
-                "faith"
-            ],
-            "tags": [
-                "faith"
-            ],
+            "id": "1509428502952",
+            "title": "Test Video",
             "content": {
-                "dateAdded": "2016-02-22T10:28:11-05:00",
-                "duration": 1969,
+                "dateAdded": "2020-01-01T22:21:37+00:00",
                 "videos": [
                     {
                         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
                         "quality": "FHD",
                         "videoType": "MP4"
                     }
-                ]
-            }
+                ],
+                "duration": 3600,
+                "captions": [],
+                "adBreaks": [],
+                "language": "en",
+                "trickPlayFiles": []
+            },
+            "genres": [
+                "faith"
+            ],
+            "thumbnail": "http://placekitten.com/800/450",
+            "releaseDate": "2020-01-01",
+            "shortDescription": "Test video description",
+            "longDescription": "Even more incredible and longer test description",
+            "tags": [
+                "live"
+            ]
         }
     ]
 }

@@ -38,6 +38,35 @@
             "tags": [
                 "live"
             ]
+        },
+        {
+            "id": "1509428502953",
+            "title": "Test Video Vimeo",
+            "content": {
+                "dateAdded": "2020-01-02T22:21:37+00:00",
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/398676615.hd.mp4?s=ce5d48c23dbe1463ba33a8f5a92b3766d703a005&profile_id=175",
+                        "quality": "FHD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 352,
+                "captions": [],
+                "adBreaks": [],
+                "language": "en",
+                "trickPlayFiles": []
+            },
+            "genres": [
+                "faith"
+            ],
+            "thumbnail": "https://i.vimeocdn.com/video/866399927_800x450.jpg",
+            "releaseDate": "2020-01-02",
+            "shortDescription": "Test video description",
+            "longDescription": "Even more incredible and longer test description",
+            "tags": [
+                "live"
+            ]
         }
     ]
 }
